@@ -16,7 +16,7 @@ let velocity = 0;
 let birdY = 250;
 let gameOver = false;
 
-const birdWidth = 100;
+const birdWidth = 50;
 const birdHeight = birdWidth;
 const birdX = canvas.width * 0.25;
 
