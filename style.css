@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+canvas {
+  display: block;
+}
+
+h1{
+  height: min-content;
+}
